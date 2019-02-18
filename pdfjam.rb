@@ -16,7 +16,7 @@ class Pdfjam < Formula
   def caveats; <<~EOS
     pdfjam requires the installation of pdfLaTeX. You may need to install the
     Tex Live in your macOS. Both MacTex (brew cask install mactex) and
-    BasicTex (brew cask install basictex) works well.
+    BasicTex (brew cask install basictex) are acceptable.
     EOS
   end
 
