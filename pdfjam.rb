@@ -1,7 +1,7 @@
 class Pdfjam < Formula
   desc "Simple shell interface to the pdfpages package for pdfLaTeX"
-  homepage "https://go.warwick.ac.uk/pdfjam"
-  url "https://go.warwick.ac.uk/pdfjam/pdfjam_208.tgz"
+  homepage "https://rrthomas.github.io/pdfjam/"
+  url "https://rrthomas.github.io/pdfjam/releases/pdfjam_208.tgz"
   version "2.08"
   sha256 "c731c598cfad076c985526ff89cbf34423a216101aa5e2d753a71de119ecc0f3"
 
