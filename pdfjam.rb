@@ -5,8 +5,6 @@ class Pdfjam < Formula
   version "2.08"
   sha256 "c731c598cfad076c985526ff89cbf34423a216101aa5e2d753a71de119ecc0f3"
 
-  bottle :unneeded
-
   def install
     bin.install Dir["bin/pdf*"]
     man1.install Dir["man1/pdf*.1"]
